@@ -1,4 +1,4 @@
-### Hi there I'm Huan👋
+### Hi, I'm Huan👋
 
 <!--
 **menghuanplus/menghuanplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
